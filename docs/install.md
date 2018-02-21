@@ -33,6 +33,8 @@
     ```
     npm install
     ```
+   5a. Windows Users only run `npm install --global --production windows-build-tools`
+
 6. Test if your config is correct and services are available: 
     ```
     npm test
